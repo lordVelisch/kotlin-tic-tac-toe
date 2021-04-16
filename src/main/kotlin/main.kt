@@ -40,9 +40,8 @@ fun main() {
             scanner.nextLine()
             continue
         }
-
-        print("Draw")
     }
+    print("Draw")
 }
 
 fun drawField(gameBoard: Array<CharArray>) {
